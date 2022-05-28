@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **octane77/octane77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,7 +24,9 @@ Over the course of my training in Semicolon Africa I've: - Engaged in project-ba
 *   🌍  I'm based in Yaba, Lagos, Nigeria
 *   ✉️  You can contact me at [e.upah@semicolon.africa](mailto:e.upah@semicolon.africa )
 *   🧠  I'm learning SQL, Java, Python & HTML5\\CSS3\\JavaScript.
-*   🤝  I'm open to collaborating on building API's and SaaS### Skills<p align="left">
+*   🤝  I'm open to collaborating on building Monetizable API's and B2B SaaS Applications 
+
+### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
                                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
                                 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
@@ -42,4 +42,3 @@ Over the course of my training in Semicolon Africa I've: - Engaged in project-ba
                                 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
                                 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
                     </p>
-                    
