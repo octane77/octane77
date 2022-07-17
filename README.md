@@ -27,5 +27,7 @@ Over the course of my training in Semicolon Africa I've:
 
 *   🌍  I'm based in Yaba, Lagos, Nigeria
 *   ✉️  You can contact me at [emmanuel.upah99@gmail.com](mailto:emmanuel.upah99@gmail.com)
-*   🧠  I'm learning SQL, Java, Python & HTML5\\CSS3\\JavaScript.
+*   🧠  I'm learning SQL, Java, Python & HTML5\\CSS3\\JavaScript
+*   🔭  I’m currently working on building Fullstack Web Applications using Frontend & Backend Frameworks such as React.js, Springboot & Django 
+*   🤔  I’m looking for help with contributing with Open Source Projects 
 *   🤝  I'm open to collaborating on building Monetizable API's and B2B SaaS Applications 
